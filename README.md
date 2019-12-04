@@ -22,5 +22,5 @@ All other images fall under Unsplash.com's Free Use Licensing Rules, which can b
 ## Authors
 
 * **Arav Verma** - *Frontend/Hosting* - [Not-Aru](https://github.com/Not-Aru)
-* **Maxim Vancompernolle** - *Frontend* - [MaximVancompernolle](https://github.com/)
+* **Maxim Vancompernolle** - *Frontend* - [MaximVancompernolle](https://github.com/MaximVancompernolle)
 * **Milind Chandramohan** - *Backend* - [-](https://github.com/)
