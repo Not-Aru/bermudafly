@@ -5,5 +5,5 @@ The bootstrap template used (Agency) can be found here: https://startbootstrap.c
 Editing and creation of site was done in Visual Studio Code and Sublime Text <br>
 Hosting is provided through Google Firebase 
 
-Image citations can be found here: <br>
+Images used can be found under the "img" folder <br>
 All other images fall under Unsplash.com's Free Use Licensing Rules, which can be found here: https://unsplash.com/license
