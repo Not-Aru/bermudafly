@@ -18,7 +18,8 @@ Hosting provided through Google Firebase
 ## Citations and Images 
 
 Images used can be found under the "img" folder <br>
-All images fall under Unsplash.com's Free Commercial & Personal Use Licensing Rules, which can be found here: https://unsplash.com/license
+All images fall under Unsplash.com's Free Commercial & Personal Use Licensing Rules, which can be found here: https://unsplash.com/license <br>
+Images found in the "Agency" Bootstrap template fall under the same Free Use rules found under the MIT License. 
 
 ## Authors
 
